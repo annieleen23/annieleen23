@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Annie Li 👋
 
-<!--
-**annieleen23/annieleen23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data & Backend Engineer based in the San Francisco Bay Area.
 
-Here are some ideas to get you started:
+## 🔧 Tech Stack
+**Languages:** Python · Java · SQL  
+**Data Engineering:** Apache Spark · Kafka · Airflow · PostgreSQL · Redis  
+**AI/GenAI:** OpenAI API · LangChain · RAG · Vector Databases (Weaviate)  
+**Backend:** Spring Boot · FastAPI · REST APIs · Microservices  
+**DevOps:** Docker · AWS EC2 · GitHub Actions · CI/CD  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Featured Projects
+- [AI Resume Analyzer](https://github.com/annieleen23/ai-resume-analyzer) — AI-powered resume evaluation service using FastAPI and OpenAI GPT
+- [ScaleLink](https://github.com/annieleen23/url-shortener) — Distributed URL shortener handling 1,000+ RPS with Kafka and Redis
+
+## 📫 Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-annieli23-blue)](https://linkedin.com/in/annieli23)
