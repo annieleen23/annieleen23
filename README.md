@@ -1,4 +1,4 @@
-# Hi, I'm Annie Li 👋
+# Hello, I'm Annie Li 👋
 
 Data & Backend Engineer based in the San Francisco Bay Area.
 
