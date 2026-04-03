@@ -57,6 +57,13 @@
 - Redis LRU caching → 60% DB read reduction
 - Snowflake-inspired distributed ID generation
 
+### 🧠 [RAG Knowledge Base](https://github.com/annieleen23/rag-knowledge-base)
+> AI-powered Q&A system using ChromaDB, OpenAI embeddings, and LangChain
+
+- Semantic search over documents using vector embeddings
+- ChromaDB vector store with cosine similarity search
+- Streamlit UI with sample questions and context preview
+
 ### 📊 [ETL Pipeline Dashboard](https://github.com/annieleen23/etl-pipeline-dashboard)
 > Real-time ETL pipeline with Streamlit monitoring dashboard
 
